@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "powershell",
+    "AzureWebJobsStorage": "{AzureWebJobsStorage}",
+    "webhookURI": "https://outlook.office.com/webhook/960b597d-a4d1-4597-8010-00c322e5ea70@3e32dd7c-41f6-492d-a1a3-c58eb02cf4f8/IncomingWebhook/7b45e8e2623c4a799450473c94776dda/446b90fd-ee5e-49ac-9212-9b25ba261bfa"
+  }
+}
